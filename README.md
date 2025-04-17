@@ -1,1 +1,1 @@
-This is a test task for Capco recruitment purposes
+This is a simple project of testing public BooksAPI (Java and Cucamber).
