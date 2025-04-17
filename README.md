@@ -1,1 +1,1 @@
-This is a simple project of testing public BooksAPI (Java and Cucamber).
+Here is my simple project with tests for the publicly available Books API (Maven + Java + Cucumber).
